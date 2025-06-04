@@ -1,0 +1,1 @@
+write(*,*) 'O valor eh ', x_med
